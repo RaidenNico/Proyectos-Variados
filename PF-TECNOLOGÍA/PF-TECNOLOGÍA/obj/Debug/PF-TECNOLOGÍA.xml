@@ -1,0 +1,271 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+PF-TECNOLOGÍA
+</name>
+</assembly>
+<members>
+<member name="T:PF_TECNOLOGÍA.My.Resources.Resources">
+<summary>
+  Clase de recurso fuertemente tipado, para buscar cadenas traducidas, etc.
+</summary>
+</member>
+<member name="P:PF_TECNOLOGÍA.My.Resources.Resources.ResourceManager">
+<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member>
+<member name="P:PF_TECNOLOGÍA.My.Resources.Resources.Culture">
+<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso fuertemente tipado.
+</summary>
+</member>
+<member name="P:PF_TECNOLOGÍA.My.Resources.Resources.areas">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PF_TECNOLOGÍA.My.Resources.Resources.clientes">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PF_TECNOLOGÍA.My.Resources.Resources.Consulta">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PF_TECNOLOGÍA.My.Resources.Resources.empleados">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PF_TECNOLOGÍA.My.Resources.Resources.empleados1">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PF_TECNOLOGÍA.My.Resources.Resources.Enfermeros">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PF_TECNOLOGÍA.My.Resources.Resources.factura">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PF_TECNOLOGÍA.My.Resources.Resources.hospital">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PF_TECNOLOGÍA.My.Resources.Resources.Icono_cerrar_FN">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PF_TECNOLOGÍA.My.Resources.Resources.Icono_cerrar_FN1">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PF_TECNOLOGÍA.My.Resources.Resources.Icono_cerrar_FN2">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PF_TECNOLOGÍA.My.Resources.Resources.Icono_Maximizar">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PF_TECNOLOGÍA.My.Resources.Resources.Icono_Minimizar">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PF_TECNOLOGÍA.My.Resources.Resources.Icono_Restaurar">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PF_TECNOLOGÍA.My.Resources.Resources.Logo_Hopital">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PF_TECNOLOGÍA.My.Resources.Resources.Logo_Hopital1">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PF_TECNOLOGÍA.My.Resources.Resources.Mobile_Menu_Icon">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PF_TECNOLOGÍA.My.Resources.Resources.Paciente">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PF_TECNOLOGÍA.My.Resources.Resources.producto">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PF_TECNOLOGÍA.My.Resources.Resources.reportes">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:PF_TECNOLOGÍA.HOSPITALDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:PF_TECNOLOGÍA.HOSPITALDataSet.AreaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:PF_TECNOLOGÍA.HOSPITALDataSet.ConsultaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:PF_TECNOLOGÍA.HOSPITALDataSet.EmpleadoDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:PF_TECNOLOGÍA.HOSPITALDataSet.FacturaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:PF_TECNOLOGÍA.HOSPITALDataSet.PacienteDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:PF_TECNOLOGÍA.HOSPITALDataSet.AreaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:PF_TECNOLOGÍA.HOSPITALDataSet.ConsultaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:PF_TECNOLOGÍA.HOSPITALDataSet.EmpleadoRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:PF_TECNOLOGÍA.HOSPITALDataSet.FacturaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:PF_TECNOLOGÍA.HOSPITALDataSet.PacienteRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:PF_TECNOLOGÍA.HOSPITALDataSet.AreaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:PF_TECNOLOGÍA.HOSPITALDataSet.ConsultaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:PF_TECNOLOGÍA.HOSPITALDataSet.EmpleadoRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:PF_TECNOLOGÍA.HOSPITALDataSet.FacturaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:PF_TECNOLOGÍA.HOSPITALDataSet.PacienteRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:PF_TECNOLOGÍA.HOSPITALDataSetTableAdapters.AreaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:PF_TECNOLOGÍA.HOSPITALDataSetTableAdapters.ConsultaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:PF_TECNOLOGÍA.HOSPITALDataSetTableAdapters.EmpleadoTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:PF_TECNOLOGÍA.HOSPITALDataSetTableAdapters.FacturaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:PF_TECNOLOGÍA.HOSPITALDataSetTableAdapters.PacienteTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:PF_TECNOLOGÍA.HOSPITALDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:PF_TECNOLOGÍA.HOSPITALDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(PF_TECNOLOGÍA.HOSPITALDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:PF_TECNOLOGÍA.HOSPITALDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(PF_TECNOLOGÍA.HOSPITALDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:PF_TECNOLOGÍA.HOSPITALDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(PF_TECNOLOGÍA.HOSPITALDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:PF_TECNOLOGÍA.HOSPITALDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:PF_TECNOLOGÍA.HOSPITALDataSetTableAdapters.TableAdapterManager.UpdateAll(PF_TECNOLOGÍA.HOSPITALDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:PF_TECNOLOGÍA.HOSPITALDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:PF_TECNOLOGÍA.HOSPITALDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>
